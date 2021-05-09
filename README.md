@@ -12,6 +12,6 @@ In this challenge, we ask you to build a predictive model that answers the quest
 
 
 ### Prediction_Description::
-Prediction has been mode using Logistic Regression, Decision Tree Classification, Gradient Boosting Classifier, Random Forest Classifier ML models for the provided data. Submission file consists of two columns PassengerId and the predicted binary value implying whether the respective passenger has survived or not.
+Prediction has been made using Logistic Regression, Decision Tree Classification, Gradient Boosting Classifier, Random Forest Classifier ML models for the provided data. Submission file consists of two columns PassengerId and the predicted binary value implying whether the respective passenger has survived or not.
 
 My Submission had a prediction accuracy of 76.794 %.
